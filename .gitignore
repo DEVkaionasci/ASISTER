@@ -1,0 +1,36 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Distribuição e build
+build/
+dist/
+*.egg-info/
+*.rar
+*.zip
+
+# Logs e temporários
+*.log
+*.tmp
+tmp*
+
+# Repositório Git aninhado (não versionar dentro deste projeto)
+Assistente_Gerenciador/
+
+# Dados locais (descomente se não quiser versionar suas tarefas)
+# tarefas.json
